@@ -1,13 +1,13 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Wilder Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: December 1st, 2019
+##### 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Started and finished Responsive Web Design - Tribute Page
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** First time I started from scratch, previously I used templates, it helped me think over real design. 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Tribute Page](https://github.com/friendwilder/fccTributePage)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
