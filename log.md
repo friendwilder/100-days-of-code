@@ -9,14 +9,14 @@
 
 **Link to work:** [Tribute Page](https://github.com/friendwilder/fccTributePage)
 
-### Day 0: February 30, 2016 (Example 2)
+### Day 1: Monday, December 2nd, 2019 
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Started and finished Responsive Web Design - Survey Form.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I tested a way to use Test Driven Design, eventhough all the user stories were already provided, I went building one and testing then the next and so on. I like this approach.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Survey Form](https://github.com/friendwilder/surveyForm)
 
 
 ### Day 1: June 27, Monday
